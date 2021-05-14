@@ -7,9 +7,8 @@
     android:layout_height="match_parent"
     tools:context=".fragment.BirdFragment">
 
-
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/imageViewBird"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/bird"
